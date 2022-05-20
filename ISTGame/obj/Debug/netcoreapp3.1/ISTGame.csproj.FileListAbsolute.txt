@@ -1,0 +1,13 @@
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\bin\Debug\netcoreapp3.1\ISTGame.exe
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\obj\Debug\netcoreapp3.1\ISTGame.csprojAssemblyReference.cache
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\obj\Debug\netcoreapp3.1\ISTGame.AssemblyInfoInputs.cache
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\obj\Debug\netcoreapp3.1\ISTGame.AssemblyInfo.cs
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\bin\Debug\netcoreapp3.1\ISTGame.deps.json
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\bin\Debug\netcoreapp3.1\ISTGame.runtimeconfig.json
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\bin\Debug\netcoreapp3.1\ISTGame.runtimeconfig.dev.json
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\bin\Debug\netcoreapp3.1\ISTGame.dll
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\bin\Debug\netcoreapp3.1\ISTGame.pdb
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\bin\Debug\netcoreapp3.1\TextToAsciiArt.dll
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\obj\Debug\netcoreapp3.1\ISTGame.csproj.CopyComplete
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\obj\Debug\netcoreapp3.1\ISTGame.dll
+C:\Users\Jacob.Tenara\OneDrive - Arden Anglican School\Documents\ISTGame\ISTGame\obj\Debug\netcoreapp3.1\ISTGame.pdb
